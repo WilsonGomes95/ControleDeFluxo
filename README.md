@@ -2,9 +2,6 @@
 
 Este projeto, desenvolvido como parte do desafio DIO, implementa um contador simples em Java. O programa solicita dois números inteiros ao usuário e exibe uma contagem crescente entre eles, desde que o primeiro seja menor que o segundo.
 
-## Diagrama de Fluxo
-[Incluir um diagrama de fluxo simples aqui, caso queira]
-
 ### Funcionalidades
 * **Solicita dois números inteiros ao usuário.**
 * **Valida se o primeiro número é menor que o segundo.**
