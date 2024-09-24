@@ -16,7 +16,7 @@ Este projeto, desenvolvido como parte do desafio DIO, implementa um contador sim
    * Java JDK instalado e configurado.
 2. **Clonagem do Repositório:**
    ```bash
-   git clone https://seu-repositorio.git
+   git clone https://github.com/WilsonGomes95/ControleDeFluxo.git
    ``` 
 3. **Compilação:**
    ```bash
