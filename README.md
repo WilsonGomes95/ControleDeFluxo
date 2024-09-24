@@ -1,35 +1,51 @@
-Aqui está um exemplo de README que você pode usar para o seu projeto:
-
 ```markdown
-# Projeto Contador
+# Contador de Números Inteiros com Validação
 
-Este projeto foi desenvolvido como parte de um desafio na plataforma DIO (Digital Innovation One). O objetivo do desafio foi implementar um contador que recebe dois números inteiros e exibe uma contagem de 1 até a diferença entre os números, levando em consideração algumas validações.
+Este projeto, desenvolvido como parte do desafio DIO, implementa um contador simples em Java. O programa solicita dois números inteiros ao usuário e exibe uma contagem crescente entre eles, desde que o primeiro seja menor que o segundo.
 
-## Funcionalidade
+## Funcionalidades
+* Solicita dois números inteiros ao usuário.
+* Valida se o primeiro número é menor que o segundo.
+* Exibe uma mensagem de erro caso a validação falhe.
+* Realiza a contagem e exibe os resultados.
 
-O programa solicita ao usuário dois números inteiros e, se o primeiro número for menor que o segundo, uma mensagem de erro é exibida. Após a exibição da mensagem, o programa retorna e pede que o usuário insira os números novamente.
-
-### Tecnologias Utilizadas
-
-- Java
+## Tecnologias Utilizadas
+* **Java:** Linguagem de programação utilizada para o desenvolvimento.
 
 ## Como Executar
-
-1. Certifique-se de ter o Java instalado em sua máquina.
-2. Clone o repositório ou baixe os arquivos do projeto.
-3. Abra o terminal na pasta do projeto.
-4. Compile os arquivos `.java` usando o comando:
-
+1. **Pré-requisitos:**
+   * Java JDK instalado e configurado.
+2. **Clonagem do Repositório:**
    ```bash
+   git clone https://seu-repositorio.git
+   ```
+3. **Compilação:**
+   ```bash
+   cd contador
    javac Contador.java ParametrosInvalidosException.java
    ```
-
-5. Execute o programa usando o comando:
-
+4. **Execução:**
    ```bash
    java Contador
    ```
 
-## Desafio DIO
+## Exemplo de Execução
+```
+Digite o primeiro número: 5
+Digite o segundo número: 10
+Contagem:
+5
+6
+7
+8
+9
+```
 
-Este projeto foi uma ótima oportunidade para praticar conceitos de programação em Java, como controle de fluxo, tratamento de exceções e interação com o usuário. A participação em desafios como este contribui significativamente para o aprendizado e desenvolvimento de habilidades em programação.
+## Contribuições
+Contribuições são bem-vindas! Abra um pull request para propor suas melhorias.
+
+## Desafio DIO
+Este projeto foi uma ótima oportunidade para aprimorar meus conhecimentos em Java, especialmente em relação a:
+* **Controle de fluxo:** Estrutura condicional `if-else` para validação.
+* **Tratamento de exceções:** Classe `ParametrosInvalidosException` para lidar com entradas inválidas.
+* **Interação com o usuário:** Leitura de entradas do console.
