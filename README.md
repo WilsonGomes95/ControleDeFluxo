@@ -1,3 +1,5 @@
+## Absolutamente! Aqui está o README formatado em Markdown, pronto para ser copiado e colado diretamente no seu repositório:
+
 ```markdown
 # Contador de Números Inteiros com Validação
 
