@@ -1,4 +1,3 @@
-```markdown
 # Contador de Números Inteiros com Validação
 
 Este projeto, desenvolvido como parte do desafio DIO, implementa um contador simples em Java. O programa solicita dois números inteiros ao usuário e exibe uma contagem crescente entre eles, desde que o primeiro seja menor que o segundo.
