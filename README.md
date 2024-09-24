@@ -17,3 +17,7 @@ Este projeto, desenvolvido como parte do desafio DIO, implementa um contador sim
 2. **Clonagem do Repositório:**
    ```bash
    git clone https://seu-repositorio.git
+
+## Como Executar
+cd contador
+javac Contador.java ParametrosInvalidosException.java
