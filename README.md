@@ -3,13 +3,13 @@
 
 Este projeto, desenvolvido como parte do desafio DIO, implementa um contador simples em Java. O programa solicita dois números inteiros ao usuário e exibe uma contagem crescente entre eles, desde que o primeiro seja menor que o segundo.
 
-### Funcionalidades
+## Funcionalidades
 * Solicita dois números inteiros ao usuário.
 * Valida se o primeiro número é menor que o segundo.
 * Exibe uma mensagem de erro caso a validação falhe.
 * Realiza a contagem e exibe os resultados.
 
-### Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * **Java:** Linguagem de programação utilizada para o desenvolvimento.
 
 ## Como Executar
@@ -19,7 +19,6 @@ Este projeto, desenvolvido como parte do desafio DIO, implementa um contador sim
    ```bash
    git clone https://seu-repositorio.git
    ``` 
-   <!-- Substitua pelo URL correto do seu repositório -->
 3. **Compilação:**
    ```bash
    cd contador
