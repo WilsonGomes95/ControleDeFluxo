@@ -42,8 +42,3 @@ Contagem:
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Melhorias Futuras
-* Implementar uma contagem decrescente.
-* Adicionar opções para diferentes intervalos de contagem.
-```
