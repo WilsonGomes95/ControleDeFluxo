@@ -3,9 +3,6 @@
 
 Este projeto, desenvolvido como parte do desafio DIO, implementa um contador simples em Java. O programa solicita dois números inteiros ao usuário e exibe uma contagem crescente entre eles, desde que o primeiro seja menor que o segundo.
 
-## Diagrama de Fluxo
-[Incluir um diagrama de fluxo simples aqui, caso queira]
-
 ### Funcionalidades
 * Solicita dois números inteiros ao usuário.
 * Valida se o primeiro número é menor que o segundo.
@@ -21,7 +18,8 @@ Este projeto, desenvolvido como parte do desafio DIO, implementa um contador sim
 2. **Clonagem do Repositório:**
    ```bash
    git clone https://seu-repositorio.git
-   ```
+   ``` 
+   <!-- Substitua pelo URL correto do seu repositório -->
 3. **Compilação:**
    ```bash
    cd contador
@@ -43,12 +41,11 @@ Contagem:
 8
 9
 ```
-```
 
-**Lembre-se de:**
+## Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-* **Substituir `https://seu-repositorio.git` pelo URL correto do seu repositório.**
-* **Adaptar a seção "Exemplo de Execução" para refletir a saída real do seu programa.**
-* **Adicionar o diagrama de fluxo, badges e outras informações relevantes.**
-
+## Melhorias Futuras
+* Implementar uma contagem decrescente.
+* Adicionar opções para diferentes intervalos de contagem.
 ```
